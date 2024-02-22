@@ -1,1 +1,2 @@
-hola este mi archivo de git hola este un arhivo en desarrollo
+hola este mi archivo de git hola este un arhivo en desarrollo 
+segunda linea de codigo
